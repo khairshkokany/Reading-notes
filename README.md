@@ -5,6 +5,6 @@
 
 # Table of contents 
 |Number of reads | reads files|
-|-----------------|------------|
-|1       | [READ01](READ01.md)|
-|2       | [READ02](READO2.md)|
+|----------------|------------|
+|1               | [READ01](READ01.md)|
+|2               | [READ02](READO2.md)|
