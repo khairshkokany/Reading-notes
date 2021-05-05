@@ -11,8 +11,5 @@
 |2               | [READ02](READO2.md)|
 |3               | [READ03](READ03.md)|
 |4               | [READ04](READ04.md)|
-<<<<<<< HEAD
 |5               | [READ05](READ05.md)|
-=======
 
->>>>>>> c7c0837ad1c070e250501533f221122a159d5388
