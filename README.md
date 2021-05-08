@@ -12,4 +12,8 @@
 |3               | [READ03](READ03.md)|
 |4               | [READ04](READ04.md)|
 |5               | [READ05](READ05.md)|
+<<<<<<< HEAD
 |6               | [READ06](READ06.md)|
+=======
+
+>>>>>>> 8ad879daee9ec9ab5acba17172430e2597a80019
