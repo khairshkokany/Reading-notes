@@ -133,14 +133,25 @@ to complete that task (a flowchart can help).
 3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
 > And this is basic example of html , css & JS
 <! DOCTYPE html>
+
 < html >
+
 < head>
+
 < title>Constr ucti ve &amp ; Co.</ title>
+
 < link rel ="stylesheet" href="css/cOl.css" />
+
 < /head>
+
 < body>
+
 < hl>Constructive &amp ; Co.</ hl>
+
 < p>For all orders and inquiries please call < em>555-3344</ em></ p>
+
 = = < script src="j s/ add-content .j s "></ script>
+
 </ body>
+
 </ html>
