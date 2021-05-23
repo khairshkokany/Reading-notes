@@ -16,24 +16,24 @@
 ## Web page structure
 The basic structure is in place; you simply need to change the title and add some text. The first thing we have to know is that in every web page there are two clearly differentiated parts: the head, or head, and the body, or body.
 ### This is example for html code :-
-<html>
-<body>
- <h1>This is the Main Heading</h1>
- <p>This text might be an introduction to the rest of
+< html>
+< body>
+ < h1>This is the Main Heading</ h1>
+ < p>This text might be an introduction to the rest of
  the page. And if the page is a long one it might
- be split up into several sub-headings.<p>
- <h2>This is a Sub-Heading</h2>
- "<p>Many long articles have sub-headings so to help
+ be split up into several sub-headings.< p>
+ < h2>This is a Sub-Heading</ h2>
+ "< p>Many long articles have sub-headings so to help
  you follow the structure of what is being written.
  There may even be sub-sub-headings (or lower-level
- headings).</p>"
- "<h2>Another Sub-Heading</h2>"
- <p>Here you can see another sub-heading.</p>
-</body>
-</html>
-<h1>title</h1>
-<p>title             this is open tag of paragraph 
-</p>                   this is close tag of paragraph 
+ headings).< /p>"
+ "< h2>Another Sub-Heading</ h2>"
+ < p>Here you can see another sub-heading.</ p>
+</ body>
+</ html>
+< h1>title</ h1>
+< p>title             this is open tag of paragraph 
+</ p>                   this is close tag of paragraph 
 
 
 > To create a web page on a pc You can use a lot of programs like notepad , notepad ++ , VS .
@@ -59,7 +59,7 @@ Every HTML element can carry the id attribute. It is used to uniquely identify t
 Its value should start with a letter or an underscore (not a number or any other character).
 It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
 As you will see when you come to look at CSS in the next section, giving an element a unique identity allows you to style it differently than any other instance of the same element on the page.
-<p id="pullquote">Every time I view the sea I feel
+< p id="pullquote">Every time I view the sea I feel
  a calming sense of security, as if visiting my
  ancestral home; I embark on a voyage of seeing.
 </p>
@@ -67,28 +67,28 @@ As you will see when you come to look at CSS in the next section, giving an elem
 ### Class Attribute
 
 Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites. To do this you can use the class attribute. Its value should describe the class it belongs to
-<p class="important admittance">Hours: 10:00 – 18:00
- (No admittance after 17:30)</p>
+< p class="important admittance">Hours: 10:00 – 18:00
+ (No admittance after 17:30)</ p>
 
 ### Block Elements
 
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 Examples of block elements are
 
-"<h1>, <p>, <ul>, and <li>."
+"< h1>, < p>, < ul>, and < li>."
 
 ### Inline Elements
 
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 Examples of inline elements are
-<a>, <b>, <em>, and <img>.
+< a>, < b>, < em>, and < img>.
 
 ### HTML5 Layout Elements
-<header> - Defines a header for a document or a section.
-<nav> - Defines a set of navigation links.
-<section> - Defines a section in a document.
-<article> - Defines an independent, self-contained content.
-<aside> - Defines content aside from the content (like a sidebar)
+< header> - Defines a header for a document or a section.
+< nav> - Defines a set of navigation links.
+< section> - Defines a section in a document.
+< article> - Defines an independent, self-contained content.
+< aside> - Defines content aside from the content (like a sidebar)
 
  ## process and design
 Getting your message across using design
@@ -133,14 +133,14 @@ to complete that task (a flowchart can help).
 3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
 > And this is basic example of html , css & JS
 <! DOCTYPE html>
-<html >
-<head>
-<title>Constr ucti ve &amp; Co.</title>
-<link rel ="stylesheet" href="css/cOl.css" />
-</head>
-<body>
-<hl>Constructive &amp; Co.</hl>
-<p>For all orders and inquiries please call <em>555-3344</em></p>
-= = <script src="j s/ add-content .j s "></script>
-</body>
-</html>
+< html >
+< head>
+< title>Constr ucti ve &amp ; Co.</ title>
+< link rel ="stylesheet" href="css/cOl.css" />
+< /head>
+< body>
+< hl>Constructive &amp ; Co.</ hl>
+< p>For all orders and inquiries please call < em>555-3344</ em></ p>
+= = < script src="j s/ add-content .j s "></ script>
+</ body>
+</ html>
