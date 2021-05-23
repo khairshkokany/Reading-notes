@@ -23,11 +23,11 @@ The basic structure is in place; you simply need to change the title and add s
  the page. And if the page is a long one it might
  be split up into several sub-headings.<p>
  <h2>This is a Sub-Heading</h2>
- <p>Many long articles have sub-headings so to help
+ "<p>Many long articles have sub-headings so to help
  you follow the structure of what is being written.
  There may even be sub-sub-headings (or lower-level
- headings).</p>
- <h2>Another Sub-Heading</h2>
+ headings).</p>"
+ "<h2>Another Sub-Heading</h2>"
  <p>Here you can see another sub-heading.</p>
 </body>
 </html>
@@ -40,14 +40,17 @@ The basic structure is in place; you simply need to change the title and add s
 
 
 ### DOCTYPEs
+
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included). We will therefore be including one in each example for the rest of the book. As you will see when we come to look at CSS and its box model on page 316, the use of a DOCTYPE can also help the browser to render a page correctly. Because XHTML was written in XML, you will sometimes see pages that use the XHTML strict DOCTYPE start with the optional XML declaration. Where this is used, it should be the first thing in a document. There must be nothing before it, not even a space.
+
 #### Comments in HTML
+
 If you want to add a comment
 to your code that will not be
 visible in the user's browser, you
 can add the text between these
 characters:
-<!-- comment goes here -->
+"<!-- comment goes here -->"
 
 ### ID Attribute
 
@@ -62,16 +65,20 @@ As you will see when you come to look at CSS in the next section, giving an elem
 </p>
 
 ### Class Attribute
+
 Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites. To do this you can use the class attribute. Its value should describe the class it belongs to
 <p class="important admittance">Hours: 10:00 – 18:00
  (No admittance after 17:30)</p>
 
 ### Block Elements
+
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 Examples of block elements are
-<h1>, <p>, <ul>, and <li>.
+
+"<h1>, <p>, <ul>, and <li>."
 
 ### Inline Elements
+
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 Examples of inline elements are
 <a>, <b>, <em>, and <img>.
