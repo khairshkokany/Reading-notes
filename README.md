@@ -5,15 +5,19 @@
 
 # Table of contents 
 
-|Number of reads | reads files|
-|----------------|------------|
-|1               | [READ01](READ01.md)|
-|2               | [READ02](READO2.md)|
-|3               | [READ03](READ03.md)|
-|4               | [READ04](READ04.md)|
-|5               | [READ05](READ05.md)|
-<<<<<<< HEAD
-|6               | [READ06](READ06.md)|
-=======
+## 102 course table
 
->>>>>>> 8ad879daee9ec9ab5acba17172430e2597a80019
+|Number of reads | reads files                |
+|----------------|----------------------------|
+|1               | [READ01](102/READ01.md)    |
+|2               | [READ02](102/READO2.md)    |
+|3               | [READ03](102/READ03.md)    |
+|4               | [READ04](102/READ04.md)    |
+|5               | [READ05](102/READ05.md)    |
+|6               | [READ06](102/READ06.md)    |
+
+## 201 course table
+|Number of reads | reads files                |
+|----------------|----------------------------|
+|7               | [READ01](201/class-01.md)  |
+|8               | [READ02](201/class-02.md)  |
