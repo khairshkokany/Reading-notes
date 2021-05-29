@@ -25,3 +25,4 @@
 |9               | [READ03](201/class-03.md)  |
 |10              | [READ04](201/class-04.md)  |
 |11              | [READ05](201/class-05.md)  |
+|12              | [READ06](201/class-06.md)  |
