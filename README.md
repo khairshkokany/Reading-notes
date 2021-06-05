@@ -28,3 +28,6 @@
 |12              | [READ06](201/class-06.md)  |
 |13              | [READ07](201/class-07.md)  |
 |14              | [READ08](201/class-08.md)  |
+|15              | [READ09](201/class-09.md)  |
+|16              | [READ10](201/class-10.md)  |
+|17              | [READ11](201/class-11.md)  |
