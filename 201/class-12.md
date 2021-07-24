@@ -93,8 +93,36 @@ The fallback content is displayed in browsers which do not support < canvas>. Sc
 
 > Unlike SVG, < canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.
 
+1. fillRect(x, y, width, height)
+Draws a filled rectangle.
+2. strokeRect(x, y, width, height)
+Draws a rectangular outline.
+3. clearRect(x, y, width, height)
+Clears the specified rectangular area, making it fully transparent.
+
+## Drawing paths
+
+> Now let's look at paths. A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of different width and of different color. A path, or even a subpath, can be closed. To make shapes using paths, we take some extra steps:
+
+1. First, you create the path.
+3. Then you use drawing commands to draw into the path.
+3. Once the path has been created, you can stroke or fill the path to render it.
 
 
+* beginPath()
 
+**Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.**
+
+* Path methods
+
+**Methods to set different paths for objects.**
+
+* closePath()
+
+**Adds a straight line to the path, going to the start of the current sub-path.**
+
+* stroke()
+
+**Draws the shape by stroking its outline.**
 
 
