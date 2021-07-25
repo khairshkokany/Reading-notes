@@ -43,8 +43,8 @@
 |Number of reads | reads files                |
 |----------------|----------------------------|
 |22              | [READ13](301/class-01.md)  |
-|23              | [READ14](201/class-02.md)  |
-|24              | [READ15](201/class-03.md)  |
+|23              | [READ14](301/class-02.md)  |
+|24              | [READ15](301/class-03.md)  |
 
 ## 401 Advanced Software Development
 
