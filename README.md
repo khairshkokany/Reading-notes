@@ -46,6 +46,9 @@
 |23              | [READ14](301/class-02.md)  |
 |24              | [READ15](301/class-03.md)  |
 |25              | [READ16](301/class-04.md)  |
+|26              | [READ17](301/class-05.md)  |
+
+
 
 ## 401 Advanced Software Development
 
