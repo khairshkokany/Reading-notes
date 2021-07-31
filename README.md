@@ -47,6 +47,8 @@
 |24              | [READ15](301/class-03.md)  |
 |25              | [READ16](301/class-04.md)  |
 |26              | [READ17](301/class-05.md)  |
+|27              | [READ18](301/class-06.md)  |
+
 
 
 
