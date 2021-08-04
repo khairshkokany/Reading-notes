@@ -50,7 +50,7 @@
 |27              | [READ18](301/class-06.md)  |
 |28              | [READ19](301/class-07.md)  |
 |29              | [READ20](301/class-08.md)  |
-|30              | [READ20](301/class-30.md)  |
+|30              | [READ21](301/class-09.md)  |
 
 
 
