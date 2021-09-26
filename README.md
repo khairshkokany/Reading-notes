@@ -63,3 +63,4 @@
 |Number of reads | reads files                |
 |----------------|----------------------------|
 |35              | [READ01](401/class-01.md)  |
+|36              | [READ02](401/class-02.md)  |
