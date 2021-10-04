@@ -1,0 +1,33 @@
+### five object-oriented design (OOD) principles
+
+1. Single-responsibility Principle
+1. Open-closed Principle
+1. Liskov Substitution Principle
+1. Interface Segregation Principle
+1. Dependency Inversion Principle
+
+### Single-Responsibility Principle
+
+1. A class should have one and only one reason to change, meaning that a class should have only one job.
+
+### Open-Closed Principle
+
+1. Objects or entities should be open for extension but closed for modification.
+
+### Liskov Substitution Principle
+
+1. Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
+   This means that every subclass or derived class should be substitutable for their base or parent class.
+
+### Interface Segregation Principle
+
+1. A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
+
+### Dependency Inversion Principle
+
+1. Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+
+![princeples](https://image.slidesharecdn.com/solid-111014044221-phpapp02/95/solid-object-oriented-design-principles-6-728.jpg?cb=1318567464)
+
+## ![OO SOLID principles in real life](https://i.pinimg.com/originals/8a/53/36/8a53363bd595a8af11822020a9342b02.jpg)
+
