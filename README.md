@@ -69,6 +69,7 @@
 |39              | [READ05](401/class-05.md)  |
 |40              | [READ06](401/class-06.md)  |
 |42              | [READ08](401/class-08.md)  |
+|43              | [READ09](401/class-09.md)  |
 
 
 
