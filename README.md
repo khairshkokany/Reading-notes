@@ -79,6 +79,8 @@
 |50              | [READ18](401/class-18.md)  |
 |51              | [READ19](401/class-19.md)  |
 |52              | [READ26](401/class-26.md)  |
+|53              | [READ27](401/class-27.md)  |
+
 
 
 
