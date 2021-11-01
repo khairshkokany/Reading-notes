@@ -80,6 +80,8 @@
 |51              | [READ19](401/class-19.md)  |
 |52              | [READ26](401/class-26.md)  |
 |53              | [READ27](401/class-27.md)  |
+|54              | [READ28](401/class-28.md)  |
+
 
 
 
