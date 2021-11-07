@@ -84,6 +84,8 @@
 |55              | [READ29](401/class-29.md)  |
 |56              | [READ30](401/class-30.md)  |
 |57              | [READ31](401/class-31.md)  |
+|58              | [READ32](401/class-32.md)  |
+
 
 
 
