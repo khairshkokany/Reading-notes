@@ -93,6 +93,8 @@
 |64              | [READ38](401/class-38.md)  |
 |65              | [READ39](401/class-39.md)  |
 |66              | [READ41](401/class-41.md)  |
+|67              | [READ42](401/class-42.md)  |
+
 
 
 
